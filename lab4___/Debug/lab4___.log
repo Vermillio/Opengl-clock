@@ -1,0 +1,69 @@
+﻿  Source.cpp
+c:\users\morga\source\repos\lab4___\lab4___\learnopengl\shader_m.h(53): warning C4101: infoLog: неиспользованная локальная переменная
+c:\users\morga\source\repos\lab4___\lab4___\learnopengl\shader_m.h(52): warning C4101: success: неиспользованная локальная переменная
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(219): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(313): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(314): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(318): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(319): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(321): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(322): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(331): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _gladLoadGLLoader в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _stbi_load в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _stbi_image_free в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _stbi_set_flip_vertically_on_load в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwInit в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwTerminate в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwWindowHint в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwCreateWindow в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwWindowShouldClose в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSetWindowShouldClose в функции "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSetFramebufferSizeCallback в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwPollEvents в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSetInputMode в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwGetKey в функции "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSetCursorPosCallback в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSetScrollCallback в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwGetTime в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwMakeContextCurrent в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSwapBuffers в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwGetProcAddress в функции _main
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glTexParameteri"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glTexImage2D"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glClear"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glClearColor"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glEnable"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glViewport"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glDrawArrays"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glBindTexture"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGenTextures"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glActiveTexture"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glBindBuffer"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glDeleteBuffers"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGenBuffers"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glBufferData"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glAttachShader"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glCompileShader"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glCreateProgram"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glCreateShader"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glDeleteShader"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glEnableVertexAttribArray"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGetProgramiv"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGetProgramInfoLog"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGetShaderiv"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGetShaderInfoLog"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGetUniformLocation"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glLinkProgram"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glShaderSource"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glUseProgram"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glUniform1i"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glUniformMatrix4fv"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glVertexAttribPointer"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGenerateMipmap"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glBindVertexArray"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glDeleteVertexArrays"
+Source.obj : error LNK2001: неразрешенный внешний символ "_glad_glGenVertexArrays"
+glfw3dll.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+soil.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\morga\source\repos\lab4___\Debug\lab4___.exe : fatal error LNK1120: неразрешенных внешних элементов: 55

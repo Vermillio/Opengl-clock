@@ -1,0 +1,13 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 1
+
+newmtl Material.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\morga\\Documents\\Visual Studio 2015\\Projects\\2course\\labs\\lab4\\lab4\\Textures\\e961e86c757550786edf1b5e5034ca45--dark-wood-background-dark-wood-texture.jpg

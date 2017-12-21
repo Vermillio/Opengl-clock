@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\users\morga\source\repos\lab4___\lab4___\opengl\shader_m.h(53): warning C4101: infoLog: неиспользованная локальная переменная
+c:\users\morga\source\repos\lab4___\lab4___\opengl\shader_m.h(52): warning C4101: success: неиспользованная локальная переменная
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(338): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(343): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(348): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(437): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(441): warning C4101: tmp: неиспользованная локальная переменная
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(489): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(490): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(494): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(495): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(497): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(498): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\morga\source\repos\lab4___\lab4___\source.cpp(511): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  lab4___.vcxproj -> C:\Users\morga\source\repos\lab4___\x64\Debug\lab4___.exe
